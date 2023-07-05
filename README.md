@@ -1,5 +1,7 @@
 # widget-apps
-
+Nama : Muhammad Ridho Syahroza
+NPM  : 213510350
+Kelas : 4 B
 ## Project setup
 ```
 npm install
